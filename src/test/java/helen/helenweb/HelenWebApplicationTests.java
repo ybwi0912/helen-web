@@ -8,6 +8,7 @@ class HelenWebApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("hello");
 	}
 
 }
